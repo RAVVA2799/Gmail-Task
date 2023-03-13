@@ -1,0 +1,14 @@
+.heading{
+    color:yellowgreen;
+}
+
+.App{
+    background-color: bisque;
+}
+
+.bg-white{
+      justify-content: center;
+      align-items: center;
+      background-color: red;
+      color: black;
+}

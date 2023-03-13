@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "fromEmail": "csvtu123@gmail.com",
+        "name": "CSVTU  C.G",
+        "Subject":"Online Examinations",
+        "message":"Dear all, As you know the filling of Examination Form for Apr- May 2020 exams commences in April 2020.The students who have access to the internet at home are advised to fill the form in April 2020. Institutes have to ensure to pass on this information to all students without fail through any communication available. In fact, it is mandatory for each and every institution to circulate this message across all students of their Institution as a precautionary measure for containment of COVID-19 while informing them about the filling of Examination Form for April-May 2020 Examinations.It is also suggested to fill your exam form by using Desktop or Laptop Using mobile device is not recommended to fill the forms",
+        "date":"Feb 8"
+    },
+    {
+        "id": 2,
+        "fromEmail": "ace420@gmail.com",
+        "name": "Ace 420",
+        "Subject":"Online Rummy Offers",
+        "message":"A23 Rummy is safe and secure. Play online Rummy and earn real cash. Go ahead and use your skills to win big. Keep playing for special offers, deals and bonuses.",
+          "date":"Jan 26"
+        }
+    ,
+    {
+        "id": 3,
+       
+        "fromEmail": "dream11@gmail.com",
+        "name": "Dream 11",
+        "Subject":"Khelo Dimag Se- IND vs PAK",
+        "message":"Ready to challenge other sports fans? Watch this video to learn how to play on Dream11 and get started now. Compete with sports fans, make a perfect Dream11 team with the best combination of players as per your knowledge and skill and win big.",
+        "date":"Jan 15"
+    },
+    {
+        "id": 4,
+        "fromEmail": "asianpaints58@gmail.com",
+        "name": "Asian Paints",
+        "Subject":"Flat 50% off on Diwali Sale",
+        "message":"Painting your home is exciting, but choosing the right colours, products, and house painters while ensuring your family’s safety can be a huge task. That's where we come in with our aim to make home painting a safe and great experience! With Asian Paints Safe Painting Services, re-imagine your home as a huge canvas.",
+        "date":"Oct 26"
+    },
+    {
+        "id": 5,
+        "fromEmail": "bet365@gmail.com",
+        "name": "Bet365",
+        "Subject":"Boxing Day- Summer ",
+        "message":"The 2021 Ashes series was played from December 2021 through January 2022,[62] and featured the first Ashes test match to be played in Tasmania, at Hobart's Bellerive Oval.[63] Australia retained the Ashes in the 2021-22 Ashes series, after Scott Boland achieved the third best bowling figures in the history of Australian cricket at 6-7 (4 overs).",
+        "date":"Oct  10"
+    },
+    {
+        "id": 6,
+        "fromEmail": "linkedinmember09@gmail.com",
+        "name": "LinkedIn",
+        "Subject":"Notifications",
+        "message":"You've got a New Connection  from HARSHA ",
+        "date":"OCt 10"
+    },
+    {
+        "id": 7,
+        "fromEmail": "ixigo69@gmail.com",
+        "name": "Ixigo Railways",
+        "Subject":"Planning for a Goa Trip ...😜?",
+        "message":"Book Hyderabad to Goa train tickets and Get a confirmed ticket or a FREE UPGRADE to Flight ticket with TripGuarante, check timetable & fare on MakeMyTrip.",
+        "date":"Oct 5"
+    },
+    {
+        "id": 8,
+        "fromEmail": "amazonindia91@gmail.com",
+        "name": "Amazon India",
+        "Subject":"boAt Rockerzz 765 on Sale..",
+        "message":"Earphones from boAt are sleek, stylish, and trendy. With ergonomic designs, high bass, and clear audio, you can use it at your home, the gym, or while hiking. Most of the earphones from this brand come with simple touch controls to receive phone calls and to control the music tracks and volume",
+         "date":"Sep 10"
+    }, {
+        "id": 9,
+        "fromEmail": "timesofindia1452319@gmail.com",
+        "name": "TOI+",
+        "Subject":"Watch Latest News",
+        "message":"Even though Vinod doesn’t hold any formal positions or participate in daily operations, he’s a key negotiator for the Adani group when it’s raising funds from international markets and is involved in planning the group’s strategic direction, a person familiar with the matter said..",
+        "date":" Sep 3 "
+    }, {
+        "id": 10,
+        "fromEmail": "csk0074@gmail.com",
+        "name": "Chennai Super Kings",
+        "Subject":"Congratulations...Selected",
+        "message":"Congrats RPK! You've been Picked for 3.5 Cr .Welcome to Super Kings Family, #AnbuDenForever .",
+        "date":"Aug 25"
+
+    }
+
+]

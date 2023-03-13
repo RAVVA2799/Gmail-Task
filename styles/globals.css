@@ -1,0 +1,13 @@
+h3{
+  text-align: center;
+}
+
+tr{
+  border-color: black;
+  border-width:5px;
+}
+
+.bg-white{
+   justify-content: center;
+   align-items: center;
+}
